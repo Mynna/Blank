@@ -1,2 +1,2 @@
 # Blank
-My first repsoitory
+My first repository
